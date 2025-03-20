@@ -1,0 +1,18 @@
+:root {
+    --brand: #01b5fb;
+    --sub: #6ac754;
+    --body: #516171;
+    --border: rgba(0,0,0,0.08);
+    --shadow: 0px 6px 30px rgba(0, 0, 0, 0.08);
+}
+.navbar-brand h4 {
+    font-size: 2rem; 
+    font-weight: bolder;
+    background: linear-gradient(45deg, #FF5DA2, #D355FF); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+  }
+  
+  
+  
